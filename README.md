@@ -1,5 +1,5 @@
 # Excel_projects
-Using INDEX function to build a model to calculate the total airfare of the manager's trip when the ordered list of cities visited is provided.
+Using INDEX function to build a model to calculate the total airfare when the ordered list of cities visited is provided.
 Using VLOOKUP in many scenarios like: Given a product ID, how to look up the product’s price?
 Build a model to parse address lines.
 Determining the number of workdays and workhours in a year, given to assume that all Saturdays, Sundays and federal holidays are non-work days.  
